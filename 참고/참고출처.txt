@@ -1,0 +1,12 @@
+[위험도로 예측시스템](http://taas.koroad.or.kr/web/shp/sbm/initRiskRoadFrcstSys.do?menuId=WEB_KMP_TAI_AFS)
+공공데이터API
+['사망교통사고정보서비스'](https://www.data.go.kr/iim/api/selectAPIAcountView.do)
+['보행자무단횡단사고다발지역정보서비스'](https://www.data.go.kr/iim/api/selectAPIAcountView.do)
+['스쿨존어린이사고다발지역정보서비스'](https://www.data.go.kr/iim/api/selectAPIAcountView.do)
+['보행어린이사고다발지역정보서비스'](https://www.data.go.kr/iim/api/selectDevAcountList.do)
+['보행노인사고다발지역정보서비스']
+['자전거사고다발지역정보서비스']
+['법규위반별사고 다발지역정보 조회 서비스']
+['지자체별사고 다발지역정보 조회 서비스']
+['링크기반 사고위험지역정보 조회 서비스']
+['세부링크 도로위험도지수정보 조회 서비스']
